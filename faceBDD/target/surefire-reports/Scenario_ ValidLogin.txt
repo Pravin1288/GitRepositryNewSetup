@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: ValidLogin
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 4, Skipped: 6, Time elapsed: 8.468 s <<< FAILURE! - in Scenario: ValidLogin
+When I enter my username as "pravinkumar_12@hotmail.com"(Scenario: ValidLogin)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'PRAVIN-PC', ip: '192.168.1.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pravi\AppData\Local\Temp\rust_mozprofile.IavUVonbZam2, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=57.0.4, platformVersion=10.0, moz:processID=192.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=false}]
+Session ID: 0580ea8e-506e-4c7d-9256-c0a883b79910
+*** Element info: {Using=css selector, value=#email}
+
+Scenario: ValidLogin  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'PRAVIN-PC', ip: '192.168.1.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pravi\AppData\Local\Temp\rust_mozprofile.IavUVonbZam2, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=57.0.4, platformVersion=10.0, moz:processID=192.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=false}]
+Session ID: 0580ea8e-506e-4c7d-9256-c0a883b79910
+*** Element info: {Using=css selector, value=#email}
+
+Scenario: ValidLogin  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+Scenario: ValidLogin  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+

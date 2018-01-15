@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: | IamTrying | ToAccess |
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 4, Skipped: 3, Time elapsed: 8.269 s <<< FAILURE! - in | IamTrying | ToAccess |
+When I enter user as "IamTrying"(| IamTrying | ToAccess |)  Time elapsed: 0.001 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'PRAVIN-PC', ip: '192.168.1.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pravi\AppData\Local\Temp\rust_mozprofile.w1uoiDqQHDLm, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=57.0.4, platformVersion=10.0, moz:processID=8052.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=false}]
+Session ID: 6ab82006-8bf5-43ca-b9e1-de0167fb603f
+*** Element info: {Using=css selector, value=#email}
+
+| IamTrying | ToAccess |  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Tried to run command without establishing a connection
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'PRAVIN-PC', ip: '192.168.1.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{moz:profile=C:\Users\pravi\AppData\Local\Temp\rust_mozprofile.w1uoiDqQHDLm, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, moz:headless=false, platform=ANY, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=57.0.4, platformVersion=10.0, moz:processID=8052.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt, moz:webdriverClick=false}]
+Session ID: 6ab82006-8bf5-43ca-b9e1-de0167fb603f
+*** Element info: {Using=css selector, value=#email}
+
+| IamTrying | ToAccess |  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
+| IamTrying | ToAccess |  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+
