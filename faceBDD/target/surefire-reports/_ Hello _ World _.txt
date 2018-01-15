@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: | Hello | World |
 -------------------------------------------------------------------------------
-Tests run: 9, Failures: 0, Errors: 4, Skipped: 3, Time elapsed: 11.579 s <<< FAILURE! - in | Hello | World |
-When I enter user as "Hello"(| Hello | World |)  Time elapsed: 0.005 s  <<< ERROR!
+Tests run: 9, Failures: 0, Errors: 4, Skipped: 3, Time elapsed: 13.301 s <<< FAILURE! - in | Hello | World |
+When I enter user as "Hello"(| Hello | World |)  Time elapsed: 0.003 s  <<< ERROR!
 java.lang.NullPointerException
 
 | Hello | World |  Time elapsed: 0 s  <<< ERROR!

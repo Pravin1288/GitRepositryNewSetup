@@ -1,8 +1,9 @@
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\stepdefinitions\baseClass.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\runner\Test.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\runner\TestRunner.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\stepdefinitions\InvalidLogin.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\pageobjects\HomePage.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\baseclass\Driver.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\pageobjects\LoggedInPage.java
-D:\SeleniumWebdriver\faceBDD\src\test\java\com\face\bdd\stepdefinitions\ValidLogin.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\baseclass\Driver.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\pageobjects\HomePage.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\baseclass\getData.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\runner\TestRunner.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\stepdefinitions\baseClass.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\runner\Test.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\pageobjects\LoggedInPage.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\stepdefinitions\InvalidLogin.java
+C:\Users\pravi\Egit\faceBDD\src\test\java\com\face\bdd\stepdefinitions\ValidLogin.java
